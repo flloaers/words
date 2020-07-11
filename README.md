@@ -1,22 +1,34 @@
 # words
 
-### myriahedron
-#### Etymology 
-
+## myriahedron
+<!--#### Etymology 
+-->
 > A _myriahedron_ is a polyhedron with a myriad of faces.
 > 
 >  Jarke J. van Wijk. Unfolding the Earth: Myriahedral Projections. _The Cartographic Journal_, [**45**:1, 32-42](https://doi.org/10.1179/000870408X276594) (2008). (Also available [here](https://t.co/mVsfwLIqjB?amp=1).)
 
+###### Family: -hedra.
+###### Siblings: dodecahedron, amplituhedron. 
 
-### graticule
-#### Etymology
-from Latin crāticula, diminutive form of crātis (bundle of brush, fascine; framework, network, lattice; bush-harrow)
+## graticule
+<!--#### Etymology
+from Latin crāticula, diminutive form of crātis (bundle of brush, fascine; framework, network, lattice; bush-harrow)-->
 
-1. A grid of horizontal and vertical lines.
+<!--1. A grid of horizontal and vertical lines.
 2. (_specifically, optics_) A reticle. 
 3. (_specifically, geography_) The network of lines of latitude and longitude that make up a coordinate system such as the one used for the Earth. 
-4. A nearly square or nearly rectangular region created by a graticule.
+4. A nearly square or nearly rectangular region created by a graticule.-->
 
 > A _graticule_ is a set of parallels and meridians at equal spacing in degrees.
 > 
+>  Jarke J. van Wijk. Unfolding the Earth: Myriahedral Projections. _The Cartographic Journal_, [**45**:1, 32-42](https://doi.org/10.1179/000870408X276594) (2008). (Also available [here](https://t.co/mVsfwLIqjB?amp=1).)
+
+###### Family: deriving from a Latin diminutive in -(c)ulus, -(c)ula, or -(c)ulum.
+###### Siblings: malleolus, particle. 
+
+
+## sextic 
+> We discuss the recurrence coefficients of orthogonal polynomials with respect to a generalised sextic Freud weight
+> \\[\omega\left(x;t, \lambda \right) = \left\lvert x\right\rvert^{2\lambda+1} \exp{\left(-x^6+tx^2 \right)}, \quad x \in \mathbb{R},\\]
+> with parameters $$d$$ 
 >  Jarke J. van Wijk. Unfolding the Earth: Myriahedral Projections. _The Cartographic Journal_, [**45**:1, 32-42](https://doi.org/10.1179/000870408X276594) (2008). (Also available [here](https://t.co/mVsfwLIqjB?amp=1).)
