@@ -5,7 +5,7 @@
 -->
 > A _myriahedron_ is a polyhedron with a myriad of faces.
 > 
->  Jarke J. van Wijk. Unfolding the Earth: Myriahedral Projections. _The Cartographic Journal_, [**45**:1, 32-42](https://doi.org/10.1179/000870408X276594) (2008). (Also available [here](https://t.co/mVsfwLIqjB?amp=1).)
+>  van Wijk, Jarke J. "Unfolding the Earth: Myriahedral Projections." _The Cartographic Journal_, [**45**:1, 32-42](https://doi.org/10.1179/000870408X276594) (2008). (Also available [here](https://t.co/mVsfwLIqjB?amp=1).)
 
 ###### Family: -hedra.
 ###### Siblings: dodecahedron, amplituhedron. 
@@ -21,14 +21,14 @@ from Latin crāticula, diminutive form of crātis (bundle of brush, fascine; fra
 
 > A _graticule_ is a set of parallels and meridians at equal spacing in degrees.
 > 
->  Jarke J. van Wijk. Unfolding the Earth: Myriahedral Projections. _The Cartographic Journal_, [**45**:1, 32-42](https://doi.org/10.1179/000870408X276594) (2008). (Also available [here](https://t.co/mVsfwLIqjB?amp=1).)
+>  van Wijk, Jarke J. "Unfolding the Earth: Myriahedral Projections." _The Cartographic Journal_, [**45**:1, 32-42](https://doi.org/10.1179/000870408X276594) (2008). (Also available [here](https://t.co/mVsfwLIqjB?amp=1).)
 
 ###### Family: deriving from a Latin diminutive in -(c)ulus, -(c)ula, or -(c)ulum.
 ###### Siblings: malleolus, particle. 
 
 
 ## sextic 
-> We discuss the recurrence coefficients of orthogonal polynomials with respect to a generalised sextic Freud weight
-> \\[\omega\left(x;t, \lambda \right) = \left\lvert x\right\rvert^{2\lambda+1} \exp{\left(-x^6+tx^2 \right)}, \quad x \in \mathbb{R},\\]
-> with parameters $$d$$ 
->  Jarke J. van Wijk. Unfolding the Earth: Myriahedral Projections. _The Cartographic Journal_, [**45**:1, 32-42](https://doi.org/10.1179/000870408X276594) (2008). (Also available [here](https://t.co/mVsfwLIqjB?amp=1).)
+> Clarkson, Peter A., and Kerstin Jordaan. "A Generalised Sextic Freud Weight." _arXiv preprint_ [_arXiv:2004.00260_](https://arxiv.org/abs/2004.00260) (2020).
+
+###### Family: polynomial degrees.
+###### Siblings: constant (0), linear (1), quadratic (2), cubic (3), quartic (4), quintic (5), septic (7), octic (8), nonic (9), decic (10). 
