@@ -1,3 +1,4 @@
 # words
 
-Words — whether technical or not — as rabbit holes: prompting iterative journeys. 
+Words — whether technical or not — as seeds morphing into rabbit holes: prompting iterative journeys. 
+
